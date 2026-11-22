@@ -1,0 +1,9 @@
+{
+  "name": "poorguy-server",
+  "version": "1.0.0",
+  "description": "穷小子打工记 联机服务器（零依赖）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
